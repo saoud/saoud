@@ -1,10 +1,20 @@
-<h3 align="center">👋 Hi there! I'm Saoud!</h3>
 <p align="center">
   <a href="https://www.saoud.dev">Website</a> •
   <a href="https://twitter.com/asimplenation">Twitter</a>
 </p>
 
----
+### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
+
+![Metrics](https://metrics.lecoq.io/saoud?template=classic&config.timezone=America%2FLos_Angeles)
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 75%" />
+</div>  
+  
+
+### <div align="center">I'm Saoud, a full-time full-stack developer student 👨‍💻 working as a Support Engineer</div>  
+  
+
 ✨ I'm a full-stack engineer with a background in medicine and support. 
 
 I am trying to become a  better programmer and share my knowledge as I go along.
@@ -13,27 +23,8 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 - 😄 My Pronouns: He/Him   
 - 💬 Ask me about: What I used to do in the pre-rona times.
 - 📫 Best place to reach me is on Twitter: [@asimplenation](https://twitter.com/asimplenation)
-- ⚡ Fun fact: I enjoy cooking and I take some photos you can check them out [here](https://www.asimplenation.com).
+- ⚡ Fun fact: I enjoy cooking(https://creativityreigns.com) and I take some photos you can check them out [here](https://www.asimplenation.com).
 
-### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
-
-![Metrics](https://metrics.lecoq.io/saoud?template=classic&config.timezone=America%2FLos_Angeles)
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Saoud, a full-time full-stack developer student 👨‍💻 working as a Support Engineer</div>  
-  
-
-- 🌱 I’m currently learning Python and Docker  
-  
-
-- ❓ Ask me about what I used to do in the before Rona times  
-  
-
-- ⚡ Fun fact: I speak 5 languages  
   
 
 <br/>  
