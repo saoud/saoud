@@ -1,12 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.saoud.dev">Website</a> •
   <a href="https://twitter.com/asimplenation">Twitter</a>
 </p>
-
-### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
-
-![Metrics](https://metrics.lecoq.io/saoud?template=classic&config.timezone=America%2FLos_Angeles)
-
+ -->
 <div align="center">
 <img src="/imgmgs/greetings.gif" align="center" style="width: 75%" />
 </div>  
@@ -47,7 +43,6 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 <img style="margin: 10px" src="/imgs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="/imgs/jquery.png" alt="jQuery" height="50" />  
 <img style="margin: 10px" src="/imgs/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="/imgs/nginx-original.svg" alt="Nginx" height="50" />  
 <img style="margin: 10px" src="/imgs/photoshop-plain.svg" alt="Photoshop" height="50" />  
 </div>
 
@@ -57,8 +52,6 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="/imgs/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="/imgs/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="/imgs/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="/imgs/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="/imgs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
@@ -67,10 +60,8 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 <img style="margin: 10px" src="/imgs/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="/imgs/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="/imgs/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="/imgs/jenkins-icon.svg" alt="Jenkins" height="50" />  
-<img style="margin: 10px" src="/imgs/google_cloud-icon.svg" alt="GCP" height="50" />  
+<img style="margin: 10px" src="/imgs/jenkins-icon.svg" alt="Jenkins" height="50" />   
 <img style="margin: 10px" src="/imgs/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="/imgs/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="/imgs/raspberrypi.png" alt="Raspberry Pi" height="50" />  
 <img style="margin: 10px" src="/imgs/tableau.svg" alt="Tableau" height="50" />  
 </div>
@@ -130,3 +121,7 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=asimplenation&cover_image=true&theme=compact" /></div>  
 
 <br/>  
+
+### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
+
+![Metrics](https://metrics.lecoq.io/saoud?template=classic&config.timezone=America%2FLos_Angeles)
