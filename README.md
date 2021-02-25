@@ -7,13 +7,13 @@
 
 ![Metrics](https://metrics.lecoq.io/saoud?template=classic&config.timezone=America%2FLos_Angeles)
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 75%" />
 </div>  
   
 
 ### <div align="center">I'm Saoud, a full-time full-stack developer student 👨‍💻 working as a Support Engineer</div>  
-  
+   -->
 
 ✨ I'm a full-stack engineer with a background in medicine and support. 
 
@@ -27,7 +27,7 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 
   
 
-<br/>  
+<!-- <br/>  
 
 
 ## My Skill Set  
@@ -129,4 +129,4 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=asimplenation&cover_image=true&theme=compact" /></div>  
 
-<br/>  
+<br/>   -->
