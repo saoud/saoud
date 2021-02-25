@@ -7,13 +7,13 @@
 
 ![Metrics](https://metrics.lecoq.io/saoud?template=classic&config.timezone=America%2FLos_Angeles)
 
-<!-- <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 75%" />
+<div align="center">
+<img src="/imgmgs/greetings.gif" align="center" style="width: 75%" />
 </div>  
   
 
 ### <div align="center">I'm Saoud, a full-time full-stack developer student 👨‍💻 working as a Support Engineer</div>  
-   -->
+  
 
 ✨ I'm a full-stack engineer with a background in medicine and support. 
 
@@ -27,7 +27,7 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 
   
 
-<!-- <br/>  
+<br/>  
 
 
 ## My Skill Set  
@@ -37,18 +37,18 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="/imgs/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="/imgs/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="/imgs/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="/imgs/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="/imgs/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="/imgs/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="/imgs/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="/imgs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="/imgs/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="/imgs/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="/imgs/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="/imgs/photoshop-plain.svg" alt="Photoshop" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -57,22 +57,22 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
+<img style="margin: 10px" src="/imgs/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="/imgs/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="/imgs/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="/imgs/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="/imgs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="/imgs/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="/imgs/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="/imgs/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="/imgs/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="/imgs/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="/imgs/jenkins-icon.svg" alt="Jenkins" height="50" />  
+<img style="margin: 10px" src="/imgs/google_cloud-icon.svg" alt="GCP" height="50" />  
+<img style="margin: 10px" src="/imgs/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="/imgs/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="/imgs/raspberrypi.png" alt="Raspberry Pi" height="50" />  
+<img style="margin: 10px" src="/imgs/tableau.svg" alt="Tableau" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -81,8 +81,8 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 
 ### DevOps  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
+<img style="margin: 10px" src="/imgs/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="/imgs/google_cloud-icon.svg" alt="GCP" height="50" />  
 </div>
 
 </td></tr></table>  
@@ -129,4 +129,4 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=asimplenation&cover_image=true&theme=compact" /></div>  
 
-<br/>   -->
+<br/>  
