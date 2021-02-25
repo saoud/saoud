@@ -3,15 +3,15 @@
   <a href="https://twitter.com/asimplenation">Twitter</a>
 </p>
  -->
-<div align="center">
+<!-- <div align="center">
 <img src="/imgmgs/greetings.gif" align="center" style="width: 75%" />
-</div>  
+</div>   -->
   
 
 ### <div align="center">I'm Saoud, a full-time full-stack developer student 👨‍💻 working as a Support Engineer</div>  
   
 
-✨ I'm a full-stack engineer with a background in medicine and support. 
+✨ I'm on my journey to become a full-stack developer with a background in medicine and support. 
 
 I am trying to become a  better programmer and share my knowledge as I go along.
 
