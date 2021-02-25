@@ -116,13 +116,13 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saoud&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!-- ## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saoud&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
 <br/>  
 
 
-## Recent Blog Posts  
+## What am I listening to on Spotify? 
   
 
 <br/>  
