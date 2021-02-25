@@ -118,7 +118,7 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=asimplenation&cover_image=true&theme=compact" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=asimplenation&cover_image=true&theme=default" /></div>  
 
 <br/>  
 
