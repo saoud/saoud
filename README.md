@@ -23,7 +23,7 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 - 😄 My Pronouns: He/Him   
 - 💬 Ask me about: What I used to do in the pre-rona times.
 - 📫 Best place to reach me is on Twitter: [@asimplenation](https://twitter.com/asimplenation)
-- ⚡ Fun fact: I enjoy cooking(https://creativityreigns.com) and I take some photos you can check them out [here](https://www.asimplenation.com).
+- ⚡ Fun fact: I enjoy [cooking](https://creativityreigns.com) and I take some photos you can check them out [here](https://www.asimplenation.com).
 
   
 
