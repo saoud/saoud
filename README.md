@@ -113,7 +113,7 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 <br/>  
 
 
-## What am I listening to on Spotify? 
+## What am I listening to? 
   
 
 <br/>  
