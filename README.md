@@ -38,7 +38,6 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 <img style="margin: 10px" src="/imgs/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="/imgs/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="/imgs/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="/imgs/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="/imgs/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="/imgs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="/imgs/jquery.png" alt="jQuery" height="50" />  
@@ -54,16 +53,14 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 <div align="center">  
 <img style="margin: 10px" src="/imgs/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="/imgs/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="/imgs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="/imgs/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="/imgs/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="/imgs/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="/imgs/nginx-original.svg" alt="Nginx" height="50" />   
 <img style="margin: 10px" src="/imgs/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="/imgs/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="/imgs/jenkins-icon.svg" alt="Jenkins" height="50" />   
-<img style="margin: 10px" src="/imgs/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="/imgs/raspberrypi.png" alt="Raspberry Pi" height="50" />  
 <img style="margin: 10px" src="/imgs/tableau.svg" alt="Tableau" height="50" />  
+<img style="margin: 10px" src="/imgs/docker-original-wordmark.svg" alt="Docker" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
