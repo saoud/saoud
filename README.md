@@ -119,8 +119,8 @@ I am trying to become a  better programmer and share my knowledge as I go along.
 
 <br/>  
 
-### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
+<!-- !### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
 
-![Metrics](https://metrics.lecoq.io/saoud?template=classic&config.timezone=America%2FLos_Angeles)
+### [Metrics](https://metrics.lecoq.io/saoud?template=classic&config.timezone=America%2FLos_Angeles) -->
 
 [![Saoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=saoud)](https://github.com/saoud/github-readme-stats)
