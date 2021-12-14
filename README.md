@@ -15,5 +15,14 @@ Skills: REACT / JS / HTML / CSS / C# / .NET
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saoud&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/saoud)  
+![GitHub metrics](https://metrics.lecoq.io/saoud)
+
+## What am I listening to? 
+  
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=asimplenation&cover_image=true&theme=default" /></div>  
+
+<br/> 
 
