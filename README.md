@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Saoud
-#### I am an aspiriing full-stack developer
+#### I am a support engineer who is also a full stack web dev learning Ruby and Ruby on Rails
 I have a background in technology, now I just want to make cool things!
 
-Skills: REACT / JS / HTML / CSS / C# / .NET
+Skills: REACT / JS / HTML / CSS / C# / .NET / Ruby / Ruby on Rails / PSQL / SQL / MSQL
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning More Javascript and NodeJS 
+- 🔭 This page will forever be a work in progress. 
+- 🌱 I’m currently learning More Javascript and NodeJS as well as Ruby and Ruby on Rails!
 - 📫 How to reach me: Visit my site and it has my contact info https://saoud.dev 
 - 😄 Pronouns: He/Him/His 
 - ⚡ Fun fact: I went to medical school for 3.5 years before deciding I wanted to get into tech again. 
