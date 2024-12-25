@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Saoud
-#### I am a support engineer who is also a full stack web dev learning Ruby and Ruby on Rails
+#### I am a DevOps engineer who is also a full stack web dev learning Ruby and Ruby on Rails
 I have a background in technology, now I just want to make cool things!
 
 Skills: REACT / JS / HTML / CSS / C# / .NET / Ruby / Ruby on Rails / PSQL / SQL / MSQL
